@@ -1,6 +1,4 @@
-# TUGAS DATA MINING : RISKI GUNAWAN - A11.2021.13893
-# Kelas : A11.4610
-# link github : https://github.com/RiskiGunawan03/preprocessingData.git
+# NAMA :NICO JELANG RAMADHAN , NIM : A11.2021.13834
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
